@@ -22,4 +22,4 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### Gráfico:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoNobre&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoNobre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
