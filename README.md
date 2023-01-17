@@ -1,6 +1,6 @@
 ## Oi, tudo bom!? 👋
 
-Meu nome é Hiago inicie meu estudos em **Desenvolvimento de Software** na **Cubos Academy** em 2022, desde então é muita prática e amor que desenvolvi por essa área tenho gosto por programar por isso **FullStack**
+Meu nome é Hiago inicie meu estudos em **Desenvolvimento de Software FullStack** na **Cubos Academy** em 2022, desde então é muita prática e amor que desenvolvi por essa área
 
 Aqui nos repositórios está minha trajetória até o momento embora a maioria privado, tem tanto exercícios como projetos que venho desenvolvendo nos desafios e alguns  que faço pra me desafiar e por diversão também.
 
