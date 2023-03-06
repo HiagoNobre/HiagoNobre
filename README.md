@@ -25,3 +25,21 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
 
 ### Gráfico:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoNobre&layout=compact)](https://github.com/HiagoNobre?tab=repositories)
+
+## A partir daqui eu vou apresentar alguns projetos que fiz desde que começei os estudos pra me tornar um dev.
+
+# Esse foi o primeiro projeto que desenvolvi em um desafio da Cubos Academy, consiste em:
+  Uma página inicial "Home": no cabeçalho há o logo que são as setas pretas, na navegação temos o home que é a página inicial está selecionada com uma cor diferente e esse padrão de seleção se repete para as outras páginas, clicando em home caso esteja na home permanecerá na home caso esteja em outra página será redirecionado (a) para a página home, ao clicar em portfolio será redirecionado (a) para a página que comtém todos os projetos do dono do site, ao clicar em contato será redirecionado para a página de contato que contém as informações de contato.
+  
+  Na seção hero contém uma breve apresentação e há uma seta indicando para o sobre logo abaixo.
+  
+  Na Seção sobre  há uma foto de perfil e uma descriçaõ contanto um pouco sobre a pessoa, um botão que redireciona para a página dos projetos.
+  
+  Logo abaixo uma seção que redireciona o usuário caso ele queira entrar em contato.
+  
+  E finalmente temos o footer que contém uma navegão igual a do header porém o estilo e direferente e ainda a icones clicaveis que lhe redireciona para a rede social do dono do site.
+
+![HTML](https://github.com/HiagoNobre/HiagoNobre/blob/main/Home%20do%20site%20portifolio%202023-03-06%20154612.jpg)
+
+  Uma página de portfolios "Portfolio"
+  Uma página de contato "Contato"
