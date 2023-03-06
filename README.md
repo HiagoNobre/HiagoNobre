@@ -26,11 +26,28 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
 ### Gráfico:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoNobre&layout=compact)](https://github.com/HiagoNobre?tab=repositories)
 
-## A partir daqui eu vou apresentar alguns projetos que fiz desde que começei os estudos pra me tornar um dev.
+## A partir daqui eu vou apresentar alguns projetos que fiz desde que começei os estudos para me tornar um dev.
+
+- Link para o projeto abaixo: https://hiagonobre.github.io/
+
+- Link para o repositório do projeto: https://github.com/HiagoNobre/hiagonobre.github.io
+
+## Como rodar:
+
+  - Baixar o vs code
+  - Instalar a extensão live server no vs code
+  - Abrir o documento HTML clicar no botão direito do mouse
+  - Click na opção abrir com live Server 
+
+## Tecnologias usadas para desenvolver
+  
+  - HTML
+  - CSS
+  - VS code
 
 ## Esse foi o primeiro projeto que desenvolvi em um desafio da Cubos Academy, consiste em:
 
-  Uma página inicial "Home": no cabeçalho há o logo que são as setas pretas, na navegação temos o home que é a página inicial está selecionada com uma cor diferente e esse padrão de seleção se repete para as outras páginas, clicando em home caso esteja na home permanecerá na home caso esteja em outra página será redirecionado (a) para a página home, ao clicar em portfolio será redirecionado (a) para a página que comtém todos os projetos do dono do site, ao clicar em contato será redirecionado para a página de contato que contém as informações de contato.
+  **Uma página inicial "Home"**: no cabeçalho há o logo que são as setas pretas, na navegação temos o home que é a página inicial está selecionada com uma cor diferente e esse padrão de seleção se repete para as outras páginas, clicando em home caso esteja na home permanecerá na home caso esteja em outra página será redirecionado (a) para a página home, ao clicar em portfolio será redirecionado (a) para a página que comtém todos os projetos do dono do site, ao clicar em contato será redirecionado para a página de contato que contém as informações de contato.
   
   Na seção hero contém uma breve apresentação e há uma seta indicando para o sobre logo abaixo.
   
@@ -40,7 +57,12 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
   
   E finalmente temos o footer que contém uma navegão igual a do header porém o estilo e direferente e ainda a icones clicaveis que lhe redireciona para a rede social do dono do site.
 
-![HTML](https://github.com/HiagoNobre/HiagoNobre/blob/main/Home%20do%20site%20portifolio%202023-03-06%20154612.jpg)
+![pagina home](https://github.com/HiagoNobre/HiagoNobre/blob/main/Home%20do%20site%20portifolio%202023-03-06%20154612.jpg)
 
-  Uma página de portfolios "Portfolio"
-  Uma página de contato "Contato"
+  **Uma página de portfolios "Portfolio"**: essa página contém header e footer igual na página home e com as mesmas funcionalidades, uma breve apresentação e foto de cada projeto e um botão para navegar até o respectivo projeto (botão não vai redirecionar visto que precisa existir o site e esse é apenas um modelo mas facilmente implementado caso necessário)
+  
+  ![pagina portfolio](https://github.com/HiagoNobre/HiagoNobre/blob/main/Portfolio%20do%20site%20portfolio%202023-03-06%20154959.jpg)
+  
+  **Uma página de contato "Contato"**: essa página contém header e footer igual na página home e com as mesmas funcionalidades, um breve descrição na seção entrar em contato, na seção contato a um formulário para ser preenchido que envia nome, email e uma mensagem para entrar em contato com o dono do site(a funcionalidade do formulário precisa ser implementada usando uma linguagem de programação visto que o projeto é HTML e CSS)
+  
+  ![pagina contato](https://github.com/HiagoNobre/HiagoNobre/blob/main/pagina%20contato%20do%20site%20portfolio%202023-03-06%20155240.jpg)
