@@ -28,7 +28,8 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
 
 ## A partir daqui eu vou apresentar alguns projetos que fiz desde que começei os estudos pra me tornar um dev.
 
-# Esse foi o primeiro projeto que desenvolvi em um desafio da Cubos Academy, consiste em:
+## Esse foi o primeiro projeto que desenvolvi em um desafio da Cubos Academy, consiste em:
+
   Uma página inicial "Home": no cabeçalho há o logo que são as setas pretas, na navegação temos o home que é a página inicial está selecionada com uma cor diferente e esse padrão de seleção se repete para as outras páginas, clicando em home caso esteja na home permanecerá na home caso esteja em outra página será redirecionado (a) para a página home, ao clicar em portfolio será redirecionado (a) para a página que comtém todos os projetos do dono do site, ao clicar em contato será redirecionado para a página de contato que contém as informações de contato.
   
   Na seção hero contém uma breve apresentação e há uma seta indicando para o sobre logo abaixo.
