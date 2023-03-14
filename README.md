@@ -6,6 +6,8 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
 
 *A persistência é o caminho do êxito.* Charles Chaplin 
 
+### Mais abaixo você encontra todos os meus projetos públicos e informações sobre cada um, para mais informações entre em contato 
+
 ### Como me encontrar? 🧐💻
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiago-nobre-77a1b734/)
@@ -26,7 +28,9 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
 ### Gráfico:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoNobre&layout=compact)](https://github.com/HiagoNobre?tab=repositories)
 
-## A partir daqui eu vou apresentar alguns projetos que fiz desde que começei os estudos para me tornar um dev.
+## A partir daqui vou apresentar os projetos.
+
+**
 
 - Link para o projeto abaixo: https://hiagonobre.github.io/
 
@@ -66,3 +70,5 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
   **Uma página de contato "Contato"**: essa página contém header e footer igual na página home e com as mesmas funcionalidades, um breve descrição na seção entrar em contato, na seção contato a um formulário para ser preenchido que envia nome, email e uma mensagem para entrar em contato com o dono do site(a funcionalidade do formulário precisa ser implementada usando uma linguagem de programação visto que o projeto é HTML e CSS)
   
   ![pagina contato](https://github.com/HiagoNobre/HiagoNobre/blob/main/pagina%20contato%20do%20site%20portfolio%202023-03-06%20155240.jpg)
+
+**
