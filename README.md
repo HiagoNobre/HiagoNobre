@@ -30,7 +30,7 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
 
 ## A partir daqui vou apresentar os projetos.
 
-**
+** **
 
 - Link para o projeto abaixo: https://hiagonobre.github.io/
 
@@ -71,4 +71,4 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
   
   ![pagina contato](https://github.com/HiagoNobre/HiagoNobre/blob/main/pagina%20contato%20do%20site%20portfolio%202023-03-06%20155240.jpg)
 
-**
+** **
