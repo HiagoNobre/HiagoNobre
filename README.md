@@ -30,7 +30,9 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
 
 ## A partir daqui vou apresentar os projetos.
 
-** `#0969DA` **
+** **
+** **
+** **
 
 - Link para o projeto abaixo: https://hiagonobre.github.io/
 
