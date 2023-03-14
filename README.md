@@ -30,11 +30,13 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
 
 ## A partir daqui vou apresentar os projetos.
 
-** **
-** **
-** **
+**Para facilitar a navegação e visualização você pode escolher entre exibir cada projeto ou recolher**
 
-- Link para o projeto abaixo: https://hiagonobre.github.io/
+** **
+<details>
+  <summary>click aqui para visualizar o Projeto de um site portfólio </summary>
+  
+- Link para o projeto: https://hiagonobre.github.io/
 
 - Link para o repositório do projeto: https://github.com/HiagoNobre/hiagonobre.github.io
 
@@ -42,14 +44,20 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
 
   - Baixar o vs code
   - Instalar a extensão live server no vs code
-  - Abrir o documento HTML clicar no botão direito do mouse
-  - Click na opção abrir com live Server 
+  - Abrir o documento index.html clicar no botão direito do mouse
+  - Click na opção abrir com live Server => **pode estar em inglês a depender da linguagem do seu VS CODE**
+  
+  Observação: Para execução do projeto em sua própria maquina pode ser necessário mudar o caminho dos arquivos em cada index.html, na home, portfolio e contato.
+  Isso por conta que foi feito deploy mudei os links para funcionar no github.io 
 
 ## Tecnologias usadas para desenvolver
   
-  - HTML
-  - CSS
-  - VS code
+  - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  - ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  
+  Editor de código:
+  - ![VS CODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## Esse foi o primeiro projeto que desenvolvi em um desafio da Cubos Academy, consiste em:
 
@@ -72,5 +80,7 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
   **Uma página de contato "Contato"**: essa página contém header e footer igual na página home e com as mesmas funcionalidades, um breve descrição na seção entrar em contato, na seção contato a um formulário para ser preenchido que envia nome, email e uma mensagem para entrar em contato com o dono do site(a funcionalidade do formulário precisa ser implementada usando uma linguagem de programação visto que o projeto é HTML e CSS)
   
   ![pagina contato](https://github.com/HiagoNobre/HiagoNobre/blob/main/pagina%20contato%20do%20site%20portfolio%202023-03-06%20155240.jpg)
+  
+  </details>
 
 ** **
