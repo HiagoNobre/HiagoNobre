@@ -98,7 +98,7 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
   
     - Iure
   
-    - Leonardo
+    - Leonardo < lider >
   
     - Ronalt 
   
