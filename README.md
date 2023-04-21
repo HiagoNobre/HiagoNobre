@@ -36,10 +36,10 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
 <details>
   <summary>click aqui para visualizar o Projeto de um site portfólio </summary>
   
-- Link para o projeto: https://hiagonobre.github.io/
+- [site](https://hiagonobre.github.io/) 
 
-- Link para o repositório do projeto: https://github.com/HiagoNobre/hiagonobre.github.io
-
+- [repositório](https://github.com/HiagoNobre/hiagonobre.github.io)
+  
 ## Como rodar:
 
   - Baixar o vs code
@@ -84,3 +84,22 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
   </details>
 
 ** **
+
+<details>
+  <summary>click aqui para visualizar o Projeto de um aplicativo de finanças de uma empresa</summary>
+  
+  ##### Equipe de desenvolvimento
+
+    - Eric
+  
+    - Hiago
+  
+    - Iure
+  
+    - Leonardo
+  
+    - Ronalt
+  
+- [site](https://front-integral-m05-t09-gray.vercel.app/) 
+  
+</details>
