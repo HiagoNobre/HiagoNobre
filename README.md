@@ -88,6 +88,8 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
 <details>
   <summary>click aqui para visualizar o Projeto de um aplicativo de finanças de uma empresa</summary>
   
+  - [site](https://front-integral-m05-t09-gray.vercel.app/)
+  
   ##### Equipe de desenvolvimento
 
     - Eric
@@ -98,8 +100,6 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
   
     - Leonardo
   
-    - Ronalt
-  
-- [site](https://front-integral-m05-t09-gray.vercel.app/) 
+    - Ronalt 
   
 </details>
