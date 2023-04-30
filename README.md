@@ -74,7 +74,7 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
 
 ![pagina home](https://github.com/HiagoNobre/HiagoNobre/blob/main/Home%20do%20site%20portifolio%202023-03-06%20154612.jpg)
 
-  **Uma página de portfolios "Portfolio"**: essa página contém header e footer igual na página home e com as mesmas funcionalidades, uma breve apresentação e foto de cada projeto e um botão para navegar até o respectivo projeto (botão não vai redirecionar visto que precisa existir o site e esse é apenas um modelo mas facilmente implementado caso necessário)
+  **Uma página de portfolios "Portfolio"**: essa página contém header e footer igual na página home e com as mesmas funcionalidades, uma breve apresentação e foto de cada projeto e um botão para navegar até a página de apresentação do respectivo projeto.
   
   ![pagina portfolio](https://github.com/HiagoNobre/HiagoNobre/blob/main/Portfolio%20do%20site%20portfolio%202023-03-06%20154959.jpg)
   
