@@ -28,7 +28,8 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
 ### Gráfico:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoNobre&layout=compact)](https://github.com/HiagoNobre?tab=repositories)
 
-## A partir daqui vou apresentar os projetos.
+## A partir daqui vou apresentar alguns dos projetos que fiz só e em equipe.
+* Caso queira ver ver mais entre em contato
 
 **Para facilitar a navegação e visualização você pode escolher entre exibir cada projeto ou recolher**
 
