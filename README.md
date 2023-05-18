@@ -10,7 +10,7 @@ Aqui nos repositórios está minha trajetória até o momento embora a maioria p
 
 ### Como me encontrar? 🧐💻
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiago-nobre-77a1b734/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiagonobre/)
 
 ### 💻 Hards Skills:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
